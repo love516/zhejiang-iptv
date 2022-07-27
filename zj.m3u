@@ -173,44 +173,44 @@ http://live.plus.jinhua.com.cn/jykj/app/live.m3u8
 http://live.plus.jinhua.com.cn/jjsh/app/live.m3u8
 #EXTINF:-1,金华都市农村
 http://live.plus.jinhua.com.cn/dsnc/sd/live.m3u8
-EXTINF:-1,义乌新闻综合
+#EXTINF:-1,义乌新闻综合
 http://encoder3.ywcity.cn:5080/livestream/stn8zrsu.flv
-EXTINF:-1,义乌新闻综合
+#EXTINF:-1,义乌新闻综合
 http://encoder3.ywcity.cn:5080/hls/stn8zrsu.m3u8
 
-EXTINF:-1,温州新闻综合
+#EXTINF:-1,温州新闻综合
 http://hls.dhtv.cn:8080/live/v1_15.m3u8
-EXTINF:-1,温州新闻综合
+#EXTINF:-1,温州新闻综合
 rtmp://livetv.dhtv.cn/live/news
-EXTINF:-1,温州经济科教
+#EXTINF:-1,温州经济科教
 http://hls.dhtv.cn:8080/live/v2_12.m3u8
-EXTINF:-1,温州经济科教
+#EXTINF:-1,温州经济科教
 rtmp://livetv.dhtv.cn/live/financial
-EXTINF:-1,温州都市生活
+#EXTINF:-1,温州都市生活
 http://hls.dhtv.cn:8080/live/v3_13.m3u8
-EXTINF:-1,温州都市生活
+#EXTINF:-1,温州都市生活
 rtmp://livetv.dhtv.cn/live/citylife
-EXTINF:-1,温州公共频道
+#EXTINF:-1,温州公共频道
 http://hls.dhtv.cn:8080/live/v4_14.m3u8
-EXTINF:-1,温州公共频道
+#EXTINF:-1,温州公共频道
 rtmp://livetv.dhtv.cn/live/peoples
-EXTINF:-1,湖州新闻综合
+#EXTINF:-1,湖州新闻综合
 http://live.plus.hugd.com/xwzhpd/sd/live.m3u8
-EXTINF:-1,湖州公共频道
+#EXTINF:-1,湖州公共频道
 rtmp://live.plus.hugd.com/ggpd1/sd/live.m3u8
-EXTINF:-1,湖州文化娱乐
+#EXTINF:-1,湖州文化娱乐
 rtmp://live.plus.hugd.com/whylpd/sd/live.m3u8
 
-EXTINF:-1,嘉兴新闻综合
+#EXTINF:-1,嘉兴新闻综合
 http://stream1.jiaxingren.com/xwzh/sd/live.m3u8?_upt=
-EXTINF:-1,泰顺新闻综合
+#EXTINF:-1,泰顺新闻综合
 http://taishun.news01.yunshanit.com/720p/StreamName.m3u8
 
-EXTINF:-1,凤凰中文
+#EXTINF:-1,凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-EXTINF:-1,凤凰资讯
+#EXTINF:-1,凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-EXTINF:-1,凤凰香港
+#EXTINF:-1,凤凰香港
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 
 
