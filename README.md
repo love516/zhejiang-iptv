@@ -1,6 +1,6 @@
 
 > 浙江IPTV直播源，资源来源网络，可用性未逐一验证，尽可能保证大多资源可用。
-使用地址：https://raw.githubusercontent.com/love516/ZJIPTV/master/m3u/zj.m3u
+使用地址：https://raw.githubusercontent.com/love516/zhejiang-iptv/main/zj.m3u
 
 # PC直播源软件推荐
 
