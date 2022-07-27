@@ -30,6 +30,18 @@ http://yd-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
 #EXTINF:-1,开化国家公园
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+#EXTINF:-1,衢州龙游综合
+https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+#EXTINF:-1,衢州龙游生活
+https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+#EXTINF:-1,衢州衢江综合
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+#EXTINF:-1,衢州衢江综合
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+#EXTINF:-1,衢州常山综合
+https://hlsv2.quklive.com/live/1621306190044902/index.m3u8
+#EXTINF:-1,衢州江山综合
+http://pili-live-hls.qzjs.21js.com/21js-qz/live609-0.m3u8
 
 #EXTINF:-1,杭州综合
 http://117.148.179.179/PLTV/88888888/224/3221229307/index.m3u8
@@ -108,6 +120,14 @@ http://live1.fhtv.net.cn/shys/sd/live.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1,余姚姚江文化
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+
+#EXTINF:-1,宁波象山综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1,宁波北仑综合
+https://pili-live-hls.blnews.com.cn:443/blnews/tv3124-1559618549.m3u8
+
+
+
 
 #EXTINF:-1,绍兴新闻综合
 http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
