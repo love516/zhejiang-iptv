@@ -44,11 +44,11 @@ https://hlsv2.quklive.com/live/1621306190044902/index.m3u8
 http://pili-live-hls.qzjs.21js.com/21js-qz/live609-0.m3u8
 
 #EXTINF:-1,杭州综合
-http://117.148.179.179/PLTV/88888888/224/3221229307/index.m3u8
+http://112.17.40.247/PLTV/88888888/224/3221229307/index.m3u8
 #EXTINF:-1,杭州综合
 http://live.hoolo.tv/hztv1/sd/live.m3u8
 #EXTINF:-1,杭州明珠
-http://117.148.179.179/PLTV/88888888/224/3221229310/index.m3u8
+http://112.17.40.247/PLTV/88888888/224/3221229310/index.m3u8
 #EXTINF:-1,杭州明珠
 http://live.hoolo.tv/hztv2/sd/live.m3u8
 #EXTINF:-1,杭州生活
@@ -205,3 +205,17 @@ EXTINF:-1,嘉兴新闻综合
 http://stream1.jiaxingren.com/xwzh/sd/live.m3u8?_upt=
 EXTINF:-1,泰顺新闻综合
 http://taishun.news01.yunshanit.com/720p/StreamName.m3u8
+
+EXTINF:-1,凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+EXTINF:-1,凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+EXTINF:-1,凤凰香港
+http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+
+
+
+
+
+
+
