@@ -46,17 +46,15 @@ http://pili-live-hls.qzjs.21js.com/21js-qz/live609-0.m3u8
 #EXTINF:-1,杭州综合
 http://112.17.40.247/PLTV/88888888/224/3221229307/index.m3u8
 #EXTINF:-1,杭州综合
-http://live.hoolo.tv/hztv1/sd/live.m3u8
+http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2809529842_-2070680032/PLTV/88888888/224/3221229307/index.m3u8
 #EXTINF:-1,杭州明珠
 http://112.17.40.247/PLTV/88888888/224/3221229310/index.m3u8
 #EXTINF:-1,杭州明珠
-http://live.hoolo.tv/hztv2/sd/live.m3u8
+http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2832762804_-1734620123/PLTV/88888888/224/3221229310/index.m3u8
 #EXTINF:-1,杭州生活
 http://117.148.179.179/PLTV/88888888/224/3221229313/index.m3u8
 #EXTINF:-1,杭州生活
-http://live.hoolo.tv/hztv3/sd/live.m3u8
-#EXTINF:-1,杭州生活
-p2p://proxy_dli31/hztv3
+http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2848313566_-100055911/PLTV/88888888/224/3221229313/index.m3u8?icpid=88888888&RTS=1598860258&from=12&hms_devid=363&prioritypopid=12&online=1598860258
 #EXTINF:-1,杭州影视
 http://117.148.179.179/PLTV/88888888/224/3221229377/index.m3u8
 #EXTINF:-1,杭州影视
@@ -177,6 +175,21 @@ http://live.plus.jinhua.com.cn/dsnc/sd/live.m3u8
 http://encoder3.ywcity.cn:5080/livestream/stn8zrsu.flv
 #EXTINF:-1,义乌新闻综合
 http://encoder3.ywcity.cn:5080/hls/stn8zrsu.m3u8
+#EXTINF:-1,金华东阳综合
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1,金华兰溪综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1,金华武义综合
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+#EXTINF:-1,金华磐安生活
+http://pili-live-hls.panews.cn/panews/live3000149-0.m3u8
+#EXTINF:-1,金华磐安综合
+http://pili-live-hls.panews.cn/panews/live526-0.m3u8
+
+
+
+
+
 
 #EXTINF:-1,温州新闻综合
 http://hls.dhtv.cn:8080/live/v1_15.m3u8
@@ -206,15 +219,31 @@ http://stream1.jiaxingren.com/xwzh/sd/live.m3u8?_upt=
 #EXTINF:-1,泰顺新闻综合
 http://taishun.news01.yunshanit.com/720p/StreamName.m3u8
 
-#EXTINF:-1,凤凰中文
+#EXTINF:-1,舟山-嵊泗综合
+http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+#EXTINF:-1,舟山-普陀综合
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+
+
+
+#EXTINF:-1,香港卫视文旅
+https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+#EXTINF:-1,凤凰新闻
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1,凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1,凤凰香港
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-
-
-
+#EXTINF:-1,东森新闻 
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1,东森财经新闻 
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1,中天新闻
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1,台视新闻
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1,民视新闻 
+http://seb.sason.top/sc/msxw_fhd.m3u8
 
 
 
