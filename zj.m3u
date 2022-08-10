@@ -234,16 +234,9 @@ https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1,凤凰香港
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1,东森新闻 
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1,东森财经新闻 
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1,中天新闻
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1,台视新闻
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1,民视新闻 
-http://seb.sason.top/sc/msxw_fhd.m3u8
+
+#EXTINF:-1,TVB
+http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 
 
 
