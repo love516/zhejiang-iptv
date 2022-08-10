@@ -1,18 +1,14 @@
 #EXTM3U
 #EXTINF:-1,浙江卫视
-http://yd-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1,浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1,浙江国际
-http://yd-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1,浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1,浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 #EXTINF:-1,浙江教科影视
 http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-#EXTINF:-1,浙江数码时代
-http://112.17.40.140/PLTV/88888888/224/3221226638/index.m3u8
 #EXTINF:-1,浙江数码时代
 http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
 #EXTINF:-1,浙江新闻
@@ -23,8 +19,6 @@ http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1,浙江钱江频道
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1,浙江钱江频道
-http://yd-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 #EXTINF:-1,开化新闻频道
 http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
@@ -69,6 +63,8 @@ http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1,富阳新闻综合
 http://34666.hlsplay.aodianyun.com/tv_radio_34666/tv_channel_1181.m3u8
+#EXTINF:-1,杭州余杭综合
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 
 #EXTINF:-1,宁波新闻综合
 http://149.129.100.78/ningbo.php?id=1
@@ -216,34 +212,17 @@ http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 #EXTINF:-1,舟山-普陀综合
 http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 
-
-
-#EXTINF:-1,CCTV1
-http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
-#EXTINF:-1,CCTV2
-http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
-#EXTINF:-1,CCTV3
-http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
-#EXTINF:-1,CCTV4
-http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1,CCTV13
+http://hw-m-l.cztv.com/channels/lantian/channel16/720p.m3u8
+#EXTINF:-1,CCTV4-中文国际欧洲
+http://117.148.129.68/PLTV/88888888/224/3221231615/index.m3u8
 #EXTINF:-1,CCTV5
-http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
-#EXTINF:-1,CCTV6
-http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
-#EXTINF:-1,CCTV7
-http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
-#EXTINF:-1,CCTV8
-http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
-#EXTINF:-1,CCTV9
-http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 
 
 
-
-
-
-#EXTINF:-1,香港卫视文旅
-https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+#EXTINF:-1,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1,凤凰香港
