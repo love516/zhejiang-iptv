@@ -125,8 +125,6 @@ http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 https://pili-live-hls.blnews.com.cn:443/blnews/tv3124-1559618549.m3u8
 
 
-
-
 #EXTINF:-1,绍兴新闻综合
 http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 #EXTINF:-1,绍兴新闻综合
@@ -185,12 +183,6 @@ http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 http://pili-live-hls.panews.cn/panews/live3000149-0.m3u8
 #EXTINF:-1,金华磐安综合
 http://pili-live-hls.panews.cn/panews/live526-0.m3u8
-
-
-
-
-
-
 #EXTINF:-1,温州新闻综合
 http://hls.dhtv.cn:8080/live/v1_15.m3u8
 #EXTINF:-1,温州新闻综合
@@ -226,17 +218,38 @@ http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 
 
 
+#EXTINF:-1,CCTV1
+http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
+#EXTINF:-1,CCTV2
+http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1,CCTV3
+http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1,CCTV4
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1,CCTV5
+http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
+#EXTINF:-1,CCTV6
+http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
+#EXTINF:-1,CCTV7
+http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
+#EXTINF:-1,CCTV8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1,CCTV9
+http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1,香港卫视文旅
 https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-#EXTINF:-1,凤凰新闻
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1,凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1,凤凰香港
-http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-
-#EXTINF:-1,TVB
-http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+http://113.64.147.183:808/hls/34/index.m3u8
+#EXTINF:-1,凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 
 
 
