@@ -67,31 +67,31 @@ http://34666.hlsplay.aodianyun.com/tv_radio_34666/tv_channel_1181.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 
 #EXTINF:-1,宁波新闻综合
-http://149.129.100.78/ningbo.php?id=1
+http://www.372583307.top:4022/udp/233.50.201.168:5140
 #EXTINF:-1,宁波新闻综合
 http://live1.cloud.nbtv.cn/44dcc3310dcf4278827317c77e87bac5/h264_500k_ts/index.m3u8?type=fiv2hls_m3u8
 #EXTINF:-1,宁波新闻综合
 http://live1.cloud.nbtv.cn/live/44dcc3310dcf4278827317c77e87bac5?fmt=h264_500k_flv&trs=hls_ts
 #EXTINF:-1,宁波经济生活
-http://149.129.100.78/ningbo.php?id=2
+http://www.372583307.top:4022/udp/233.50.201.178:5140
 #EXTINF:-1,宁波经济生活
 http://live1.cloud.nbtv.cn/98ef9dc4eb1a4259b7764ffc4a3ab241/h264_500k_ts/index.m3u8?type=fiv2hls_m3u8
 #EXTINF:-1,宁波经济生活
 http://live1.cloud.nbtv.cn/live/98ef9dc4eb1a4259b7764ffc4a3ab241?fmt=h264_500k_flv&trs=hls_ts
 #EXTINF:-1,宁波文化娱乐
-http://149.129.100.78/ningbo.php?id=3
+http://www.372583307.top:4022/udp/233.50.201.179:5140
 #EXTINF:-1,宁波文化娱乐
 http://live1.cloud.nbtv.cn/5864a1066e4d4754a0572768c9080e47/h264_500k_ts/index.m3u8?type=fiv2hls_m3u8
 #EXTINF:-1,宁波文化娱乐
 http://live1.cloud.nbtv.cn/live/5864a1066e4d4754a0572768c9080e47?fmt=h264_500k_flv&trs=hls_ts
 #EXTINF:-1,宁波影视
-http://149.129.100.78/ningbo.php?id=4
+http://www.372583307.top:4022/udp/233.50.201.180:5140
 #EXTINF:-1,宁波影视
 http://live1.cloud.nbtv.cn/e8370b0010ca4d15af9d81c7ce10f6da/h264_500k_ts/index.m3u8?type=fiv2hls_m3u8
 #EXTINF:-1,宁波影视
 http://live1.cloud.nbtv.cn/live/e8370b0010ca4d15af9d81c7ce10f6da?fmt=h264_500k_flv&trs=hls_ts
 #EXTINF:-1,宁波少儿
-http://149.129.100.78/ningbo.php?id=5
+http://www.372583307.top:4022/udp/233.50.201.181:5140
 #EXTINF:-1,宁波少儿
 http://live1.cloud.nbtv.cn/f9af570c981c4c618f919ea91b93966f/h264_500k_ts/index.m3u8?type=fiv2hls_m3u8
 #EXTINF:-1,宁波少儿
@@ -203,7 +203,11 @@ rtmp://live.plus.hugd.com/ggpd1/sd/live.m3u8
 rtmp://live.plus.hugd.com/whylpd/sd/live.m3u8
 
 #EXTINF:-1,嘉兴新闻综合
-http://stream1.jiaxingren.com/xwzh/sd/live.m3u8?_upt=
+http://pluslive.jiaxingren.com/xwzh/sd/live.m3u8?zzhed
+#EXTINF:-1,嘉兴文化影视
+http://pluslive.jiaxingren.com/whys/sd/live.m3u8
+
+
 #EXTINF:-1,泰顺新闻综合
 http://taishun.news01.yunshanit.com/720p/StreamName.m3u8
 
@@ -211,6 +215,12 @@ http://taishun.news01.yunshanit.com/720p/StreamName.m3u8
 http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 #EXTINF:-1,舟山-普陀综合
 http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1,舟山群岛旅游
+http://live1.plus.wifizs.cn/qdly/sd/live.m3u8?zzhed
+#EXTINF:-1,舟山公共生活
+http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
+#EXTINF:-1,舟山新闻综合 
+http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
 
 #EXTINF:-1,CCTV13
 http://hw-m-l.cztv.com/channels/lantian/channel16/720p.m3u8
